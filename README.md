@@ -9,4 +9,6 @@ The game is hosted here : http://www.codeskulptor.org/#user39_o0kHBnaQ3R_9.py
 
 My highest score is 95000, try to beat that :p
 
+Game Preview : 
+
 ![Preview asteroid](https://user-images.githubusercontent.com/36373739/48889607-701ab300-ee5c-11e8-87be-71a411bdd0c3.png)
