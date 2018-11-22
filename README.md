@@ -3,6 +3,8 @@ This is classic arcade game asteroids played by the kids in 80's, 90's and some 
 
 This game was built by me in my sophomore year when i was trying to get my hands dirty learning python.
 
+The game uses [simplegui](http://activeed.rice.edu/comp160/docs.html) library developed at Rice University.
+
 The game is hosted here : http://www.codeskulptor.org/#user39_o0kHBnaQ3R_9.py
 
 My highest score is 95000, try to beat that :p
