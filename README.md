@@ -1,7 +1,7 @@
 # Asteroids
-This is classic arcade game asteroids played by the kids in 80's, 90's and some of us (including me) even now.
+This is a classic arcade game asteroids played by the kids in 80's, 90's and some of us (including me) even now.
 
-This game was built by me in my sophomore year when i was trying to get my hands dirty learning python.
+This game was built by me in my sophomore year while trying to get my hands dirty at python.
 
 The game uses [simplegui](http://activeed.rice.edu/comp160/docs.html) library developed at Rice University.
 
